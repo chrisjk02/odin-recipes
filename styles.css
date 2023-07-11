@@ -1,5 +1,14 @@
 /*new stylesheet*/
 
-.container .heading {
-    
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.headings {
+    color: green;
+}
+
+.main-title {
+    color: black;
+    text-align: center;
 }
