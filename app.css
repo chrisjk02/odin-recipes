@@ -18,3 +18,9 @@ body {
     text-align: center;
     font-style: italic;
 }
+
+#mainimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
